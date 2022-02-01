@@ -1,16 +1,23 @@
+
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <Pedidos v-bind:items="itemsData"/>
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import Pedidos from './components/Pedidos.vue'
+import pedidos from './services/data.json'
 export default {
-  name: 'App',
+  name: 'app',
   components: {
-    HelloWorld
-  }
+    Pedidos
+}, 
+data: function(){
+  return {
+    itemsData : pedidos
+  };
+}
 }
 </script>
 

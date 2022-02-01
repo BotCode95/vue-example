@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "sellingPrice": 305,
+            "quantity": 10,
+            "productId": "62808",
+            "imageUrl": "https://jumboprepro.vteximg.com.br/arquivos/ids/207350-55-55/Principal-10282.jpg?v=637320898008600000",
+            "name": "Jalea piña 110 g",
+            "id": "62806"
+        },
+        {
+            "sellingPrice": 5394,
+            "quantity": 1,
+            "productId": "62791",
+            "imageUrl": "https://jumboprepro.vteximg.com.br/arquivos/ids/207320-55-55/Pack-leche-descremada-Surlat-1-L-6-unid-1-218.jpg?v=637255827198770000",
+            "name": "Pack leche descremada Surlat 1 L, 6 unid.",
+            "id": "62791"
+        },
+        {
+            "sellingPrice": 629,
+            "quantity": 3,
+            "productId": "62792",
+            "imageUrl": "https://jumboprepro.vteximg.com.br/arquivos/ids/207322-55-55/Leche-descremada-Surlat-1-L-1-219.jpg?v=637255833216530000",
+            "name": "Leche descremada Surlat 1 L",
+            "id": "62792"
+        },
+        {
+            "sellingPrice": 1000,
+            "quantity": 3,
+            "productId": "62795",
+            "imageUrl": "https://jumboprepro.vteximg.com.br/arquivos/ids/207330-55-55/Palta-granel.jpg?v=637297705632800000",
+            "name": "Palta Hass granel",
+            "id": "62795"
+        },
+        {
+            "sellingPrice": 645,
+            "quantity": 2,
+            "productId": "48957",
+            "imageUrl": "https://jumboprepro.vteximg.com.br/arquivos/ids/202169-55-55/Tomate-larga-vida-granel-1-136.jpg?v=636849966646200000",
+            "name": "Tomate larga vida granel",
+            "id": "49030"
+        }
+    ]
+}
